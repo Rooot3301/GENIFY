@@ -1,4 +1,4 @@
-# Document Generator
+# GENIFY
 
 Ce script Bash permet de générer un certain nombre de fichiers PDF de taille minimale dans un répertoire spécifié.
 
