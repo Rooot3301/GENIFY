@@ -5,9 +5,9 @@ Ce script Bash permet de générer un certain nombre de fichiers PDF de taille m
 ## Utilisation
 
 1. Assurez-vous d'avoir Bash installé sur votre système.
-2. Clonez ce repository : `git clone https://github.com/votreutilisateur/doc-generator.git`
+2. Clonez ce repository : `git clone https://github.com/Rooot3301/GENIFY.git`
 3. Accédez au répertoire du projet : `cd genify`
-4. Exécutez le script : `./scripts/genify.sh`
+4. Exécutez le script : `genify.sh`
 5. Suivez les instructions à l'écran pour spécifier le nombre de fichiers PDF à créer et leur taille minimale.
 
 ## Exigences
