@@ -23,4 +23,4 @@ Téléchargez le script `genify.sh` sur votre machine locale. Vous pouvez le fai
 Rendez le script exécutable :
 
 ```bash
-chmod +x generate_pdfs.sh
+chmod +x genify.sh
