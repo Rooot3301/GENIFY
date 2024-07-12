@@ -1,20 +1,26 @@
-# GENIFY
+# 📄 Générateur de Fichiers PDF
 
-Ce script Bash permet de générer un certain nombre de fichiers PDF de taille minimale dans un répertoire spécifié.
+Ce script Bash permet de générer plusieurs fichiers PDF de taille minimale spécifiée par l'utilisateur dans un répertoire donné.
 
-## Utilisation
+## 🛠️ Prérequis
 
-1. Assurez-vous d'avoir Bash installé sur votre système.
-2. Clonez ce repository : `git clone https://github.com/Rooot3301/GENIFY.git`
-3. Accédez au répertoire du projet : `cd genify`
-4. Exécutez le script : `genify.sh`
-5. Suivez les instructions à l'écran pour spécifier le nombre de fichiers PDF à créer et leur taille minimale.
-
-## Exigences
-
+- Système d'exploitation basé sur Linux
 - Bash
+- Accès à un terminal avec permissions suffisantes pour écrire dans le répertoire de destination
 
-## Licence
+## 📜 Contenu du dépôt
 
-Ce projet est sous licence MIT. Pour plus d'informations, consultez le fichier LICENSE.
+- `generate_pdfs.sh`: Script Bash pour générer des fichiers PDF de taille minimale.
 
+## 🚀 Instructions d'installation et d'exécution
+
+### 1. Télécharger le script
+
+Téléchargez le script `generate_pdfs.sh` sur votre machine locale. Vous pouvez le faire en clonant ce dépôt ou en copiant le script directement.
+
+### 2. Rendre le script exécutable
+
+Rendez le script exécutable :
+
+```bash
+chmod +x generate_pdfs.sh
